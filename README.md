@@ -1,3 +1,3 @@
 # climatic_debt
 
-Awaiting final code and data set
+Data set and accompanying pdf containing a description of the data set and R code to reproduce the analyses.
